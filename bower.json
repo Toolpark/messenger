@@ -25,7 +25,7 @@
   },
   "ignore": [
     "**/.*",
-    "Gruntfile.coffee",
+    "Gruntfile.coffeei",
     "lib/",
     "package.json",
     "SpecRunner.html",
