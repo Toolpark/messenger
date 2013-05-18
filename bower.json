@@ -25,7 +25,6 @@
   },
   "ignore": [
     "**/.*",
-    "component.json",
     "Gruntfile.coffee",
     "lib/",
     "package.json",
